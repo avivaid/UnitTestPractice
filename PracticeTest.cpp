@@ -105,7 +105,7 @@ TEST(PracticeTest, sortinDecending3)
  }
 
 
-TEST(PracticeTest, sortinDecending)
+TEST(PracticeTest, sortinDecending4)
  {
      Practice obj;
      int t1 = -10; 
